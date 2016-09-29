@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MenuViewController goToSettingView]:MenuViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frostedViewController.contentViewController">
+            </PersistentString>
+            <PersistentString
+               value = "self.frostedViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuViewController onSoccor:]:MenuViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frostedViewController.contentViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[EmailLoginViewController onSingin]:EmailLoginViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

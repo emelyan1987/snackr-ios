@@ -1,0 +1,24 @@
+//
+//  Prefix.pch
+//  Snackr
+//
+//  Created by Matko Lajbaher on 9/6/15.
+//  Copyright (c) 2015 Snackr. All rights reserved.
+//
+
+#ifndef Snackr_Prefix_pch
+#define Snackr_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#ifndef TARGET_OS_IOS
+#define TARGET_OS_IOS TARGET_OS_IPHONE
+#endif
+#ifndef TARGET_OS_WATCH
+#define TARGET_OS_WATCH 0
+
+#import <UIKit/UIKit.h>
+
+#endif
+#endif

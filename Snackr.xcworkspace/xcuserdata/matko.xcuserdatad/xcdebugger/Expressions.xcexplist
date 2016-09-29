@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__33-[AppDelegate getCurrentLocation]_block_invoke:AppDelegate.m">
+      </ContextState>
+      <ContextState
+         contextName = "__60-[LocationSearchViewController searchRestaurants:pageToken:]_block_invoke:LocationSearchViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(NSArray)self-&gt;locations">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LocationSearchViewController searchRestaurants:pageToken:]:LocationSearchViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "asdf">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate fetchedData:]:AppDelegate.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
